@@ -1,0 +1,24 @@
+To run the game first unzip the folder ands run the dirtbikegame.py file as you would run any other 
+pygame file. Do not move the dirtbikegame.py file to a folder separate from the levels and other python files.
+If you do this the game will likely not start and you will not be able to load in levels. 
+
+Additionally, you must install pygame in order for the game to run properly. Installation of pygame can 
+be completed by first downloading the relevenant file from http://www.pygame.org/download.shtml and then following
+the installation guide which can be found at the following link. https://www.pygame.org/wiki/GettingStarted#Installing%20From%20Source
+
+Also, for windows users I found the following link very helpful for installing pygame
+https://www.webucator.com/blog/2015/03/installing-the-windows-64-bit-version-of-pygame/.
+
+Dirtbikegame.py is a fast paced racing game similar to Max Dirt Bike or Winter racing.
+Max Dirt Bike: http://www.maxdirtbike.org/
+Winter Racing: http://www.addictinggames.com/car-games/winter-racing-game.jsp
+
+The player controls a black dirt biker and races the red dirtbiker to the end of the game. The player wins
+if his backwheel crosses the finish line before the opposing player (the red dirtbiker). The race is made
+more challenging by obstacles that the player has to overcome on the race to the end of the level. In order
+to get by these obstacles the player must use the left and right arrow keys to rotate his biker left and right
+and the player must use the up and down arrow keys to accelerate and decelerate. 
+
+Additionally, the game comes with a level editor. players can create a level anywhere from 1/5th the size of
+a randomly generated level to 20 times the size of the regular randomly generated level. Players can then 
+save their level and load it back up and play it at anytime they want. 
