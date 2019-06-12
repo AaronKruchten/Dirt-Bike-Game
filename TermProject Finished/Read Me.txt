@@ -22,3 +22,5 @@ and the player must use the up and down arrow keys to accelerate and decelerate.
 Additionally, the game comes with a level editor. players can create a level anywhere from 1/5th the size of
 a randomly generated level to 20 times the size of the regular randomly generated level. Players can then 
 save their level and load it back up and play it at anytime they want. 
+
+NOTE: SAVING AND LOADING LEVELS DOES NOT WORK ON MACS
