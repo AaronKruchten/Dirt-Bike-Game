@@ -1,6 +1,4 @@
 # framework created by Lukas Peraza
-# run function as well as all the functions that
-# the run function call were written by Lukas Peraza
 # taken from https://github.com/LBPeraza/Pygame-Asteroids/blob/
 #master/pygamegame.py
 
